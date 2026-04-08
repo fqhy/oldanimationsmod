@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+TweakClass: com.spiderfrog.gadgets.main.OAMTweaker
+TweakOrder: -200
+
